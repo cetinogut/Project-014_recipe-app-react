@@ -18,7 +18,7 @@ const About = () => {
               Python.
             </h2>
             <h2>
-              <a href="mailto:cetinogut.gm@gmail.com">Send email</a> :
+              <a href="mailto:cetinogut.gm@gmail.com">Send email</a>
               cetinogut.gm@gmail.com
             </h2>
           </InfoContainer>
