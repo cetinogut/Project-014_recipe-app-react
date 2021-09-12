@@ -16,7 +16,7 @@ const Form = ({ setQuery, query, getData, mealTypes, setMeal, meal }) => {
       <FormContainer onSubmit={handleSubmit}>
         <FoodInput
           type="text"
-          placeholder="Search"
+          placeholder="Enter a keyword for recipe search"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />

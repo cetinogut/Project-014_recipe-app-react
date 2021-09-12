@@ -21,13 +21,17 @@ export const FormContainer = styled.form`
 `;
 export const FoodInput = styled.input`
   height: 3rem;
-  width: 15rem;
+  width: 20rem;
   border: none;
   border-radius: 3px;
   outline: none;
   text-indent: 10px;
   margin: 5px;
   font-size: 2rem;
+  ::placeholder {
+       color: maroon;
+       font-size :1rem;
+   }
 `;
 export const Button = styled.button`
   background-color: #E1F1DD;
