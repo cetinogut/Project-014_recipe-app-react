@@ -6,6 +6,11 @@ The API keys should be added to a .env file in the root folder.
   - REACT_APP_APP_KEY=
  
  No back-end added this project currently. Login is set true, so you can input whatever you want to the username/password.
+ 
+ In order to see the published version please checkout the link below:
+ https://cetinogut.github.io/Project-014_recipe-app-react
+ 
+ Happy coding...
 
 
 
