@@ -1,3 +1,15 @@
+# Description :
+
+This a basic react app using an API provided by edemam.com.
+The API keys should be added to a .env file in the root folder.
+  - REACT_APP_APP_ID=
+  - REACT_APP_APP_KEY=
+ 
+ No back-end added this project currently. Login is set true, so you can input whatever you want to the username/password.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
