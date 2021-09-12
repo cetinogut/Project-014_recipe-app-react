@@ -1,3 +1,25 @@
+# Description :
+
+This a basic react app using an API provided by edemam.com.
+The API keys should be added to a .env file in the root folder.
+  - REACT_APP_APP_ID=
+  - REACT_APP_APP_KEY=
+ 
+ No back-end added this project currently. Login is set true, so you can input whatever you want to the username/password.
+ 
+ In order to see the published version please checkout the link below:
+ https://cetinogut.github.io/Project-014_recipe-app-react
+ 
+When you make any changes to project first push the latest code to git repo.
+Then in order to updated the build on github pages you wtite the command fron terminal :
+
+npm run deploy
+ 
+ Happy coding...
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
