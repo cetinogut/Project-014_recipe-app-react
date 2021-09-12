@@ -10,6 +10,11 @@ The API keys should be added to a .env file in the root folder.
  In order to see the published version please checkout the link below:
  https://cetinogut.github.io/Project-014_recipe-app-react
  
+When you make any changes to project first push the latest code to git repo.
+Then in order to updated the build on github pages you wtite the command fron terminal :
+
+npm run deploy
+ 
  Happy coding...
 
 
